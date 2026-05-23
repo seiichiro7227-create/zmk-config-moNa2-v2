@@ -36,8 +36,8 @@ layers:
   - /
   - LCTRL
   - LEFT WIN
-  - F16
   - BACKSPACE
+  - DELETE
   - {t: ENTER, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
   - {t: '&to_layer_0 LANG1', h: '3'}
@@ -60,9 +60,9 @@ layers:
   - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - (
-  - )
+  - +
+  - '-'
+  - '*'
   - /
   - \
   - {t: ▽, type: trans}
@@ -88,26 +88,26 @@ layers:
   - {t: ▽, type: trans}
   '2':
   - '!'
-  - '@'
+  - '"'
   - '#'
   - $
   - '%'
-  - ^
   - '&'
-  - '*'
-  - '-'
-  - _
-  - '`'
-  - '~'
-  - '"'
   - ''''
+  - (
+  - )
+  - '-'
+  - '?'
+  - '~'
+  - ','
+  - .
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB3'
   - '&mkp MB1'
   - '&mkp MB2'
-  - '='
-  - +
+  - /
+  - _
   - F1
   - F2
   - F3
