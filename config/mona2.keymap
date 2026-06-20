@@ -98,10 +98,10 @@
 
         layer_2 {
             bindings = <
-&kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp POUND  &kp DOLLAR   &kp PERCENT                      &kp AMPERSAND  &kp SQT   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS
-&kp QUESTION     &kp TILDE          &kp COMMA  &kp AT_SIGN  &trans                  &trans   &mkp MB3       &mkp MB1  &mkp MB2              &kp SLASH              &kp UNDER
-&kp F1           &kp F2             &kp F3     &kp F4       &kp F5       &kp F11    &kp F12  &kp F6         &kp F7    &kp F8                &kp F9                 &kp F10
-&kp LCTRL        &trans             &trans     &trans       &trans       &trans     &trans   &trans                                                                &trans
+&kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp POUND    &kp DOLLAR  &kp PERCENT                      &kp AMPERSAND  &kp SQT   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS
+&kp QUESTION     &kp TILDE          &kp AT_SIGN  &kp AT      &trans                  &trans   &mkp MB3       &mkp MB1  &mkp MB2              &kp SLASH              &kp UNDER
+&kp F1           &kp F2             &kp F3       &kp F4      &kp F5       &kp F11    &kp F12  &kp F6         &kp F7    &kp F8                &kp F9                 &kp F10
+&kp LCTRL        &trans             &trans       &trans      &trans       &trans     &trans   &trans                                                                &trans
             >;
 
             sensor-bindings = <&scroll_up_down>;
