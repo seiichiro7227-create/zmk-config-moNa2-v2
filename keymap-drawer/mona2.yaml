@@ -100,14 +100,14 @@ layers:
   - '?'
   - '~'
   - '@'
-  - '@'
+  - '['
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB3'
   - '&mkp MB1'
   - '&mkp MB2'
   - /
-  - _
+  - /
   - F1
   - F2
   - F3
